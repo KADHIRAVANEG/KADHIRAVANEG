@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-# 💫 About Me:
+About Me..................................😁
+
+
 Motivated and detail-oriented Cyber Security student with a strong foundation in secure coding, system security, system security, and application development.  Currently pursuing a Bachelor of Engineering in Cyber Security, with hands-on experience in identifying vulnerabilities and understanding cyber threats. Skilled in programming,<br> Problem-solving, and Applying Security principles.<br> Passionate about protecting systems from Cyber attacks while developing secure and efficient software solutions.
 
 
