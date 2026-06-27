@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo.gif" width="320" alt="Kadhiravan Logo"/>
+  <img src="images/street.gif" width="320" alt="Kadhiravan Logo"/>
   <h1>Hi, I'm Kadhiravan 👋</h1>
   <h3>Aspiring Cybersecurity Engineer & Ethical Hacker</h3>
   
