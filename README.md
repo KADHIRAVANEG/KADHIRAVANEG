@@ -63,7 +63,7 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 
 ---
 
-### 🔍 Currently Exploring
+###  Currently Exploring
 
 - **Advanced Penetration Testing**
 - **Web Application Security**
