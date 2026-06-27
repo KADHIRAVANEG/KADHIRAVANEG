@@ -26,7 +26,7 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 
@@ -81,6 +81,6 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 </div>
 
 
-**"Securing tomorrow, one line of code at a time."** 🔐
+**"Securing tomorrow, one line of code at a time."** 
 
 *Open to collaborations and exciting cybersecurity opportunities!*
