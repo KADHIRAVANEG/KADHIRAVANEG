@@ -55,10 +55,9 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 
 ![](https://github-readme-stats.vercel.app/api?username=KADHIRAVANEG&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 
-![](https://nirzak-streak-stats.vercel.app/?user=KADHIRAVANEG&theme=github_dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=github_dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KADHIRAVANEG&theme=github_dark&hide_border=true&layout=compact)
-
 </div>
 
 ---
