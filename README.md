@@ -46,7 +46,6 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 </div>
 
 ---
-
 ###  GitHub Analytics
 
 <div align="center">
@@ -58,6 +57,9 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 ![](https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=github_dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KADHIRAVANEG&theme=github_dark&hide_border=true&layout=compact)
+
+
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KADHIRAVANEG&theme=github_dark&hide_border=true&layout=compact&langs_count=8)
 </div>
 
 ---
