@@ -26,23 +26,51 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 <div align="center">
 
-**Languages**  
+**Languages**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Web & Cloud**  
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Web & Cloud**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+**Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46817?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-3F3F3F?style=for-the-badge&logo=grafana&logoColor=white)
+![cAdvisor](https://img.shields.io/badge/cAdvisor-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases & Backend**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+**Security & DevSecOps**
+
+![Trivy](https://img.shields.io/badge/Trivy-2496ED?style=for-the-badge&logo=aqua&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00A1E0?style=for-the-badge&logo=wazuh&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00A1E0?style=for-the-badge&logo=falco&logoColor=white)
 </div>
 
 ---
@@ -72,14 +100,6 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 - **Bug Bounty Hunting**
 
 ---
-
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KADHIRAVANEG&color=0e8a0e&style=for-the-badge&label=Profile+Views)
-
-</div>
 
 
 **"Securing tomorrow, one line of code at a time."** 
