@@ -76,6 +76,8 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 ---
 ###  GitHub Analytics
 
+
+
 <div align="center">
 
 **Kadhiravan's GitHub Stats**
@@ -88,7 +90,25 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 
 
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KADHIRAVANEG&theme=github_dark&hide_border=true&layout=compact&langs_count=8)
+
+
+
+
+## CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KADHIRAVANEG&theme=react-dark&bg_color=0d1117&hide_border=true" width="800" />
+</p>
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KADHIRAVANEG&theme=radical" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KADHIRAVANEG&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KADHIRAVANEG&theme=radical" width="48%" />
+</p>
 
 ---
 
