@@ -1,8 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/light.svg">
-  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/dark.svg" alt="Kadhiravan EG — Cybersecurity Engineer" width="100%"/>
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/dark.svg#gh-dark-mode-only" width="100%" alt="Kadhiravan Banner Dark"/>
+  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/light.svg#gh-light-mode-only" width="100%" alt="Kadhiravan Banner Light"/>
+</div>
+
 <br/>
 
 ---
@@ -65,20 +65,20 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 $ cat /etc/current-focus.conf
 
 [advanced-pentesting]
-  status  = active
-  focus   = Web App Security · API Testing · Binary Exploitation
+  status    = active
+  focus     = Web App Security · API Testing · Binary Exploitation
 
 [bug-bounty]
-  status  = learning
+  status    = learning
   platforms = HackerOne · Bugcrowd · Intigriti
 
 [cloud-security]
-  status  = active
-  focus   = AWS IAM · Kubernetes Hardening · CSPM
+  status    = active
+  focus     = AWS IAM · Kubernetes Hardening · CSPM
 
 [devsecops]
-  status  = active
-  pipeline = CI/CD Security · SAST/DAST · Container Scanning
+  status    = active
+  pipeline  = CI/CD Security · SAST/DAST · Container Scanning
 ```
 
 ---
@@ -88,14 +88,14 @@ $ cat /etc/current-focus.conf
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KADHIRAVANEG&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADHIRAVANEG&theme=github_dark&hide_border=true&layout=compact" height="180"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=github-dark&hide_border=true" height="160"/>
 
-<br/>
+<br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KADHIRAVANEG&theme=react-dark&bg_color=0d1117&hide_border=true)](https://github.com/KADHIRAVANEG)
 
@@ -109,9 +109,11 @@ $ cat /etc/current-focus.conf
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KADHIRAVANEG&theme=radical" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KADHIRAVANEG&theme=radical" height="150"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KADHIRAVANEG&theme=radical" height="150"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KADHIRAVANEG&theme=radical" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KADHIRAVANEG&theme=radical" height="160"/>
 
 </div>
 
@@ -133,6 +135,8 @@ $ cat /etc/current-focus.conf
 <div align="center">
 
 *"Securing tomorrow, one line of code at a time."*
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KADHIRAVANEG&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
