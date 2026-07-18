@@ -3,7 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/light.svg">
   <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/dark.svg" alt="Kadhiravan EG — Cybersecurity Engineer" width="100%"/>
 </picture>
-
 <br/>
 
 ---
