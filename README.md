@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/dark.svg#gh-dark-mode-only" width="100%" alt="Kadhiravan Banner Dark"/>
-  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/light.svg#gh-light-mode-only" width="100%" alt="Kadhiravan Banner Light"/>
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/dark.svg#gh-dark-mode-only" width="100%" alt="Kadhiravan Banner"/>
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/light.svg#gh-light-mode-only" width="100%" alt="Kadhiravan Banner"/>
 </div>
 
-<br/>
 
----
 
 ## 🛡️ About Me
 
@@ -15,9 +13,11 @@ Motivated **Cyber Security** student with hands-on experience in secure coding, 
 
 Currently pursuing **B.E. in Cyber Security** and actively improving my skills in offensive and defensive security.
 
----
+
 
 ## 🔧 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -57,7 +57,11 @@ Currently pursuing **B.E. in Cyber Security** and actively improving my skills i
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
----
+
+</div>
+
+
+
 
 ## 🎯 Currently Exploring
 
@@ -81,19 +85,17 @@ $ cat /etc/current-focus.conf
   pipeline  = CI/CD Security · SAST/DAST · Container Scanning
 ```
 
----
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KADHIRAVANEG&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADHIRAVANEG&theme=github_dark&hide_border=true&layout=compact" height="180"/>
+
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=github-dark&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=github-dark&hide_border=true" height="160" alt="streak"/>
 
 <br/><br/>
 
@@ -101,23 +103,23 @@ $ cat /etc/current-focus.conf
 
 </div>
 
----
+
 
 ## 🏆 Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KADHIRAVANEG&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KADHIRAVANEG&theme=radical" width="100%" alt="profile summary"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KADHIRAVANEG&theme=radical" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KADHIRAVANEG&theme=radical" height="160" alt="repos"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KADHIRAVANEG&theme=radical" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KADHIRAVANEG&theme=radical" height="160" alt="commits"/>
 
 </div>
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -130,14 +132,9 @@ $ cat /etc/current-focus.conf
 
 </div>
 
----
 
 <div align="center">
 
 *"Securing tomorrow, one line of code at a time."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=KADHIRAVANEG&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
