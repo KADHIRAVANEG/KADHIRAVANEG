@@ -1,0 +1,503 @@
+<svg viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" width="1180" height="610">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </linearGradient>
+
+    <!-- Accent gradient cyan-purple-emerald -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- ASCII gradient animated -->
+    <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#7C3AED;#10B981;#22D3EE" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#10B981;#22D3EE;#7C3AED" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Panel glass gradient -->
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- Left panel gradient -->
+    <linearGradient id="leftPanelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.98"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Strong glow -->
+    <filter id="strongGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft glow -->
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Background radial glow purple -->
+    <radialGradient id="glowPurple" cx="25%" cy="40%" r="35%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Background radial glow cyan -->
+    <radialGradient id="glowCyan" cx="75%" cy="60%" r="35%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Background radial glow emerald -->
+    <radialGradient id="glowEmerald" cx="50%" cy="20%" r="30%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Border shimmer gradient -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)" />
+      <stop offset="40%" stop-color="rgba(124,58,237,0.6)" />
+      <stop offset="60%" stop-color="rgba(34,211,238,0.8)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Clip path for rounded card -->
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1180" height="610" rx="16" ry="16"/>
+    </clipPath>
+
+    <!-- Clip for left panel -->
+    <clipPath id="leftClip">
+      <rect x="20" y="20" width="420" height="570" rx="12" ry="12"/>
+    </clipPath>
+
+    <!-- Clip for right panel -->
+    <clipPath id="rightClip">
+      <rect x="460" y="20" width="700" height="570" rx="12" ry="12"/>
+    </clipPath>
+
+    <!-- Noise texture -->
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="overlay" result="blend"/>
+      <feComposite in="blend" in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <!-- Scanline gradient -->
+    <linearGradient id="scanline" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(34,211,238,0)" />
+      <stop offset="49%" stop-color="rgba(34,211,238,0)" />
+      <stop offset="50%" stop-color="rgba(34,211,238,0.04)" />
+      <stop offset="51%" stop-color="rgba(34,211,238,0)" />
+      <stop offset="100%" stop-color="rgba(34,211,238,0)" />
+    </linearGradient>
+
+    <!-- Pill gradient for skills -->
+    <linearGradient id="pillGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+
+    <!-- Glass reflection -->
+    <linearGradient id="glassReflect" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.06)"/>
+      <stop offset="40%" stop-color="rgba(255,255,255,0.02)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main background -->
+  <rect width="1180" height="610" fill="url(#bgGrad)" rx="16" ry="16"/>
+
+  <!-- Ambient glow layers -->
+  <rect width="1180" height="610" fill="url(#glowPurple)" rx="16"/>
+  <rect width="1180" height="610" fill="url(#glowCyan)" rx="16"/>
+  <rect width="1180" height="610" fill="url(#glowEmerald)" rx="16"/>
+
+  <!-- Noise overlay -->
+  <rect width="1180" height="610" fill="rgba(255,255,255,0.015)" rx="16" filter="url(#noise)"/>
+
+  <!-- Animated floating particles -->
+  <g opacity="0.5">
+    <circle cx="100" cy="100" r="1.5" fill="#22D3EE">
+      <animate attributeName="cy" values="100;80;100" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="500" r="1" fill="#7C3AED">
+      <animate attributeName="cy" values="500;480;500" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="80" r="1.5" fill="#10B981">
+      <animate attributeName="cy" values="80;60;80" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="530" r="1" fill="#22D3EE">
+      <animate attributeName="cy" values="530;510;530" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="200" r="1.5" fill="#7C3AED">
+      <animate attributeName="cy" values="200;180;200" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="300" r="1" fill="#10B981">
+      <animate attributeName="cy" values="300;285;300" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="420" r="1.5" fill="#22D3EE">
+      <animate attributeName="cy" values="420;400;420" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="170" cy="350" r="1" fill="#7C3AED">
+      <animate attributeName="cy" values="350;335;350" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ============ LEFT PANEL - ASCII Terminal ============ -->
+  <g clip-path="url(#cardClip)">
+    <!-- Left panel background -->
+    <rect x="20" y="20" width="420" height="570" fill="url(#leftPanelGrad)" rx="12" stroke="rgba(124,58,237,0.25)" stroke-width="1"/>
+
+    <!-- Glass reflection on left panel -->
+    <rect x="20" y="20" width="420" height="200" fill="url(#glassReflect)" rx="12"/>
+
+    <!-- Scanline sweep animation -->
+    <rect x="20" y="20" width="420" height="570" fill="url(#scanline)" rx="12" opacity="0.8">
+      <animateTransform attributeName="gradientTransform" type="translate" values="0,-570;0,570;0,-570" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Terminal header bar -->
+    <rect x="20" y="20" width="420" height="36" fill="rgba(15,23,42,0.8)" rx="12"/>
+    <rect x="20" y="44" width="420" height="12" fill="rgba(15,23,42,0.8)"/>
+
+    <!-- Traffic light dots -->
+    <circle cx="48" cy="38" r="6" fill="#FF5F57">
+      <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="68" cy="38" r="6" fill="#FFBD2E">
+      <animate attributeName="opacity" values="1;0.7;1" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="88" cy="38" r="6" fill="#27C93F">
+      <animate attributeName="opacity" values="1;0.7;1" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Terminal title -->
+    <text x="230" y="42" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#94A3B8" text-anchor="middle" letter-spacing="1">kadhiravan@cyber ~ zsh</text>
+
+    <!-- ASCII Art lines - cyber portrait with gradient fill via mask trick -->
+    <!-- Using text with fill url to achieve gradient ASCII -->
+    <g font-family="'SF Mono','Courier New',monospace" font-size="10.5" fill="url(#asciiGrad)" filter="url(#glow)">
+      <!-- Floating animation on ASCII block -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="5s" repeatCount="indefinite" additive="sum"/>
+
+        <text x="40" y="90" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.1s" fill="freeze"/
+>  ██╗  ██╗ █████╗ ██████╗ ██╗  ██╗</text>
+        <text x="40" y="104" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.25s" fill="freeze"/>  ██║ ██╔╝██╔══██╗██╔══██╗██║  ██║</text>
+        <text x="40" y="118" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.4s" fill="freeze"/>  █████╔╝ ███████║██║  ██║███████║</text>
+        <text x="40" y="132" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.55s" fill="freeze"/>  ██╔═██╗ ██╔══██║██║  ██║██╔══██║</text>
+        <text x="40" y="146" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.7s" fill="freeze"/>  ██║  ██╗██║  ██║██████╔╝██║  ██║</text>
+        <text x="40" y="160" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.85s" fill="freeze"/>  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝</text>
+
+        <text x="40" y="186" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.0s" fill="freeze"/>  ┌─────────────────────────────────┐</text>
+        <text x="40" y="200" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.15s" fill="freeze"/>  │  ░░░░░▓▓▓░░░░░▓▓▓░░░░░░░░░░░░  │</text>
+        <text x="40" y="214" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.3s" fill="freeze"/>  │  ░░░▓██████▓░░▓██████▓░░░░░░░  │</text>
+        <text x="40" y="228" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.45s" fill="freeze"/>  │  ░▓████████████████████▓░░░░░  │</text>
+        <text x="40" y="242" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.6s" fill="freeze"/>  │  ▓██▓░░░░██░░░░░░██░░░░▓██▓░░  │</text>
+        <text x="40" y="256" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.75s" fill="freeze"/>  │  ████░░░░██░░░░░░██░░░░████░░  │</text>
+        <text x="40" y="270" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.9s" fill="freeze"/>  │  ████████████████████████████  │</text>
+        <text x="40" y="284" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.05s" fill="freeze"/>  │  ████░░░░░░░░██░░░░░░░░████░░  │</text>
+        <text x="40" y="298" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.2s" fill="freeze"/>  │  ░▓██▓░░░▓▓▓▓▓▓▓▓▓░░░▓██▓░░░  │</text>
+        <text x="40" y="312" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.35s" fill="freeze"/>  │  ░░▓████████████████████▓░░░░  │</text>
+        <text x="40" y="326" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.5s" fill="freeze"/>  │  ░░░░▓▓██████████████▓▓░░░░░  │</text>
+        <text x="40" y="340" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.65s" fill="freeze"/>  │  ░░░░░░░▓████████▓░░░░░░░░░░  │</text>
+        <text x="40" y="354" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.8s" fill="freeze"/>  └─────────────────────────────────┘</text>
+
+        <!-- Prompt line -->
+        <text x="40" y="385" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="3.0s" fill="freeze"/>  ┌──(kadhiravan㉿cyber)-[~]</text>
+        <text x="40" y="399" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="3.15s" fill="freeze"/>  └─$ whoami</text>
+        <text x="40" y="413" font-size="9.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="3.3s" fill="freeze"/>  → Cybersecurity Engineer | Ethical Hacker</text>
+        <text x="40" y="427" font-size="9.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="3.45s" fill="freeze"/>  → Securing systems, one CVE at a time</text>
+        <text x="40" y="441" font-size="9.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="3.6s" fill="freeze"/>  → B.E Cyber Security | TN, India 🇮🇳</text>
+
+        <!-- Blinking cursor -->
+        <rect x="40" y="455" width="8" height="13" fill="#22D3EE" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1;0;0" dur="0.1s" begin="3.75s" fill="freeze"/>
+          <animate attributeName="opacity" values="1;0;1;0" dur="0.8s" begin="3.75s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- Bottom social pills on left -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="4s" fill="freeze"/>
+      <!-- GitHub pill -->
+      <rect x="40" y="488" width="90" height="26" rx="13" fill="rgba(124,58,237,0.2)" stroke="rgba(124,58,237,0.5)" stroke-width="1"/>
+      <text x="85" y="505" font-family="'SF Mono',monospace" font-size="10" fill="#a78bfa" text-anchor="middle">⌥ GitHub</text>
+
+      <!-- LinkedIn pill -->
+      <rect x="140" y="488" width="90" height="26" rx="13" fill="rgba(34,211,238,0.15)" stroke="rgba(34,211,238,0.4)" stroke-width="1"/>
+      <text x="185" y="505" font-family="'SF Mono',monospace" font-size="10" fill="#67e8f9" text-anchor="middle">⌥ LinkedIn</text>
+
+      <!-- Email pill -->
+      <rect x="240" y="488" width="80" height="26" rx="13" fill="rgba(16,185,129,0.15)" stroke="rgba(16,185,129,0.4)" stroke-width="1"/>
+      <text x="280" y="505" font-family="'SF Mono',monospace" font-size="10" fill="#6ee7b7" text-anchor="middle">⌥ Email</text>
+
+      <!-- Insta pill -->
+      <rect x="40" y="522" width="100" height="26" rx="13" fill="rgba(244,63,94,0.15)" stroke="rgba(244,63,94,0.35)" stroke-width="1"/>
+      <text x="90" y="539" font-family="'SF Mono',monospace" font-size="10" fill="#fb7185" text-anchor="middle">⌥ Instagram</text>
+    </g>
+
+    <!-- Left panel border shimmer -->
+    <rect x="20" y="20" width="420" height="570" fill="none" rx="12" stroke="url(#shimmer)" stroke-width="1.5"/>
+  </g>
+
+  <!-- ============ RIGHT PANEL - Terminal Info ============ -->
+  <g clip-path="url(#cardClip)">
+    <!-- Right panel background -->
+    <rect x="460" y="20" width="700" height="570" fill="url(#panelGrad)" rx="12" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+
+    <!-- Glass reflection on right panel -->
+    <rect x="460" y="20" width="700" height="150" fill="url(#glassReflect)" rx="12"/>
+
+    <!-- Terminal header -->
+    <rect x="460" y="20" width="700" height="36" fill="rgba(2,6,23,0.7)" rx="12"/>
+    <rect x="460" y="44" width="700" height="12" fill="rgba(2,6,23,0.7)"/>
+
+    <!-- Dot indicators -->
+    <circle cx="488" cy="38" r="6" fill="#FF5F57"/>
+    <circle cx="508" cy="38" r="6" fill="#FFBD2E"/>
+    <circle cx="528" cy="38" r="6" fill="#27C93F"/>
+    <text x="820" y="42" font-family="'SF Mono',monospace" font-size="11" fill="#94A3B8" text-anchor="middle" letter-spacing="1">profile.json — kadhiravan</text>
+
+    <!-- Greeting -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
+      <text x="488" y="92" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#94A3B8">$</text>
+      <text x="504" y="92" font-family="'Inter','Segoe UI',sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">Hi 👋 I'm</text>
+      <text x="640" y="92" font-family="'Inter','Segoe UI',sans-serif" font-size="22" font-weight="700" fill="url(#accentGrad)" filter="url(#glow)">Kadhiravan E.G.</text>
+    </g>
+
+    <!-- Animated role titles via sequential show/hide -->
+    <g font-family="'SF Mono','Fira Code',monospace" font-size="14" fill="#22D3EE">
+      <!-- Role 1 -->
+      <text x="488" y="122" opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0" dur="8s" begin="1s" repeatCount="indefinite"/>
+        Cybersecurity Engineer &amp; Ethical Hacker
+        <tspan fill="#7C3AED">_</tspan>
+      </text>
+      <!-- Role 2 -->
+      <text x="488" y="122" opacity="0">
+        <animate attributeName="opacity" values="0;0;0;1;1;0" dur="8s" begin="1s" repeatCount="indefinite" keyTimes="0;0.25;0.37;0.38;0.62;0.63" calcMode="discrete"/>
+        Penetration Tester &amp; Vuln Researcher
+        <tspan fill="#7C3AED">_</tspan>
+      </text>
+      <!-- Role 3 -->
+      <text x="488" y="122" opacity="0">
+        <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" dur="8s" begin="1s" repeatCount="indefinite" keyTimes="0;0.37;0.5;0.63;0.75;0.76;1;1" calcMode="discrete"/>
+        DevSecOps &amp; Cloud Security Enthusiast
+        <tspan fill="#7C3AED">_</tspan>
+      </text>
+    </g>
+
+    <!-- Divider line -->
+    <line x1="488" y1="140" x2="1140" y2="140" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+
+    <!-- Info section — sequential reveal -->
+    <g font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
+
+      <!-- Location -->
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze"/>
+        <text x="488" y="168" fill="#7C3AED">▸</text>
+        <text x="504" y="168" fill="#94A3B8">location  </text>
+        <text x="600" y="168" fill="#F8FAFC">Tamil Nadu, India 🇮🇳</text>
+      </g>
+
+      <!-- Education -->
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.8s" fill="freeze"/>
+        <text x="488" y="190" fill="#22D3EE">▸</text>
+        <text x="504" y="190" fill="#94A3B8">education </text>
+        <text x="600" y="190" fill="#F8FAFC">B.E. Cyber Security (Ongoing)</text>
+      </g>
+
+      <!-- Focus -->
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze"/>
+        <text x="488" y="212" fill="#10B981">▸</text>
+        <text x="504" y="212" fill="#94A3B8">focus     </text>
+        <text x="600" y="212" fill="#F8FAFC">Pentesting · DevSecOps · Bug Bounty</text>
+      </g>
+
+      <!-- Email -->
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.4s" fill="freeze"/>
+        <text x="488" y="234" fill="#7C3AED">▸</text>
+        <text x="504" y="234" fill="#94A3B8">email     </text>
+        <text x="600" y="234" fill="#a78bfa">kadhiravanegk@gmail.com</text>
+      </g>
+
+      <!-- Status -->
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.7s" fill="freeze"/>
+        <text x="488" y="256" fill="#10B981">▸</text>
+        <text x="504" y="256" fill="#94A3B8">status    </text>
+        <text x="600" y="256" fill="#10B981">● Open to opportunities</text>
+      </g>
+    </g>
+
+    <!-- Divider -->
+    <line x1="488" y1="274" x2="1140" y2="274" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+
+    <!-- Skills label -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3s" fill="freeze"/>
+      <text x="488" y="298" font-family="'SF Mono',monospace" font-size="11" fill="#475569" letter-spacing="2">SKILLS &amp; TOOLS</text>
+    </g>
+
+    <!-- Skills pills row 1 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze"/>
+      <!-- Python -->
+      <rect x="488" y="308" width="72" height="24" rx="12" fill="rgba(55,97,171,0.25)" stroke="rgba(55,97,171,0.5)" stroke-width="1"/>
+      <text x="524" y="324" font-family="'SF Mono',monospace" font-size="10.5" fill="#93c5fd" text-anchor="middle">Python</text>
+
+      <!-- C/C++ -->
+      <rect x="568" y="308" width="58" height="24" rx="12" fill="rgba(0,89,156,0.25)" stroke="rgba(0,89,156,0.5)" stroke-width="1"/>
+      <text x="597" y="324" font-family="'SF Mono',monospace" font-size="10.5" fill="#7dd3fc" text-anchor="middle">C / C++</text>
+
+      <!-- Java -->
+      <rect x="634" y="308" width="52" height="24" rx="12" fill="rgba(237,139,0,0.2)" stroke="rgba(237,139,0,0.4)" stroke-width="1"/>
+      <text x="660" y="324" font-family="'SF Mono',monospace" font-size="10.5" fill="#fcd34d" text-anchor="middle">Java</text>
+
+      <!-- JavaScript -->
+      <rect x="694" y="308" width="88" height="24" rx="12" fill="rgba(247,223,30,0.15)" stroke="rgba(247,223,30,0.35)" stroke-width="1"/>
+      <text x="738" y="324" font-family="'SF Mono',monospace" font-size="10.5" fill="#fef08a" text-anchor="middle">JavaScript</text>
+
+      <!-- Docker -->
+      <rect x="790" y="308" width="64" height="24" rx="12" fill="rgba(36,150,237,0.2)" stroke="rgba(36,150,237,0.4)" stroke-width="1"/>
+      <text x="822" y="324" font-family="'SF Mono',monospace" font-size="10.5" fill="#67e8f9" text-anchor="middle">Docker</text>
+
+      <!-- AWS -->
+      <rect x="862" y="308" width="48" height="24" rx="12" fill="rgba(255,153,0,0.2)" stroke="rgba(255,153,0,0.35)" stroke-width="1"/>
+      <text x="886" y="324" font-family="'SF Mono',monospace" font-size="10.5" fill="#fdba74" text-anchor="middle">AWS</text>
+
+      <!-- Kubernetes -->
+      <rect x="918" y="308" width="88" height="24" rx="12" fill="rgba(50,108,229,0.2)" stroke="rgba(50,108,229,0.4)" stroke-width="1"/>
+      <text x="962" y="324" font-family="'SF Mono',monospace" font-size="10.5" fill="#a5b4fc" text-anchor="middle">Kubernetes</text>
+    </g>
+
+    <!-- Skills pills row 2 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze"/>
+      <!-- Kali Linux -->
+      <rect x="488" y="340" width="82" height="24" rx="12" fill="rgba(124,58,237,0.2)" stroke="rgba(124,58,237,0.45)" stroke-width="1"/>
+      <text x="529" y="356" font-family="'SF Mono',monospace" font-size="10.5" fill="#c4b5fd" text-anchor="middle">Kali Linux</text>
+
+      <!-- Burp Suite -->
+      <rect x="578" y="340" width="82" height="24" rx="12" fill="rgba(234,88,12,0.2)" stroke="rgba(234,88,12,0.4)" stroke-width="1"/>
+      <text x="619" y="356" font-family="'SF Mono',monospace" font-size="10.5" fill="#fb923c" text-anchor="middle">Burp Suite</text>
+
+      <!-- Metasploit -->
+      <rect x="668" y="340" width="84" height="24" rx="12" fill="rgba(16,185,129,0.15)" stroke="rgba(16,185,129,0.4)" stroke-width="1"/>
+      <text x="710" y="356" font-family="'SF Mono',monospace" font-size="10.5" fill="#6ee7b7" text-anchor="middle">Metasploit</text>
+
+      <!-- Nmap -->
+      <rect x="760" y="340" width="54" height="24" rx="12" fill="rgba(34,211,238,0.15)" stroke="rgba(34,211,238,0.4)" stroke-width="1"/>
+      <text x="787" y="356" font-family="'SF Mono',monospace" font-size="10.5" fill="#67e8f9" text-anchor="middle">Nmap</text>
+
+      <!-- Wireshark -->
+      <rect x="822" y="340" width="84" height="24" rx="12" fill="rgba(37,99,235,0.2)" stroke="rgba(37,99,235,0.45)" stroke-width="1"/>
+      <text x="864" y="356" font-family="'SF Mono',monospace" font-size="10.5" fill="#93c5fd" text-anchor="middle">Wireshark</text>
+
+      <!-- PostgreSQL -->
+      <rect x="914" y="340" width="88" height="24" rx="12" fill="rgba(65,105,225,0.2)" stroke="rgba(65,105,225,0.4)" stroke-width="1"/>
+      <text x="958" y="356" font-family="'SF Mono',monospace" font-size="10.5" fill="#a5b4fc" text-anchor="middle">PostgreSQL</text>
+    </g>
+
+    <!-- Skills pills row 3 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.8s" fill="freeze"/>
+      <rect x="488" y="372" width="64" height="24" rx="12" fill="rgba(220,38,38,0.15)" stroke="rgba(220,38,38,0.4)" stroke-width="1"/>
+      <text x="520" y="388" font-family="'SF Mono',monospace" font-size="10.5" fill="#fca5a5" text-anchor="middle">Wazuh</text>
+
+      <rect x="560" y="372" width="60" height="24" rx="12" fill="rgba(5,150,105,0.15)" stroke="rgba(5,150,105,0.4)" stroke-width="1"/>
+      <text x="590" y="388" font-family="'SF Mono',monospace" font-size="10.5" fill="#6ee7b7" text-anchor="middle">Falco</text>
+
+      <rect x="628" y="372" width="58" height="24" rx="12" fill="rgba(245,158,11,0.15)" stroke="rgba(245,158,11,0.35)" stroke-width="1"/>
+      <text x="657" y="388" font-family="'SF Mono',monospace" font-size="10.5" fill="#fcd34d" text-anchor="middle">Trivy</text>
+
+      <rect x="694" y="372" width="78" height="24" rx="12" fill="rgba(124,58,237,0.15)" stroke="rgba(124,58,237,0.4)" stroke-width="1"/>
+      <text x="733" y="388" font-family="'SF Mono',monospace" font-size="10.5" fill="#c4b5fd" text-anchor="middle">Terraform</text>
+
+      <rect x="780" y="372" width="78" height="24" rx="12" fill="rgba(234,88,12,0.15)" stroke="rgba(234,88,12,0.35)" stroke-width="1"/>
+      <text x="819" y="388" font-family="'SF Mono',monospace" font-size="10.5" fill="#fb923c" text-anchor="middle">Prometheus</text>
+
+      <rect x="866" y="372" width="68" height="24" rx="12" fill="rgba(249,115,22,0.15)" stroke="rgba(249,115,22,0.35)" stroke-width="1"/>
+      <text x="900" y="388" font-family="'SF Mono',monospace" font-size="10.5" fill="#fdba74" text-anchor="middle">Grafana</text>
+    </g>
+
+    <!-- Divider -->
+    <line x1="488" y1="408" x2="1140" y2="408" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+
+    <!-- Currently exploring -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.1s" fill="freeze"/>
+      <text x="488" y="430" font-family="'SF Mono',monospace" font-size="11" fill="#475569" letter-spacing="2">CURRENTLY EXPLORING</text>
+
+      <text x="488" y="453" font-family="'SF Mono',monospace" font-size="12" fill="#94A3B8">
+        <tspan fill="#10B981">●</tspan>  Advanced Penetration Testing
+      </text>
+      <text x="488" y="472" font-family="'SF Mono',monospace" font-size="12" fill="#94A3B8">
+        <tspan fill="#22D3EE">●</tspan>  Web Application Security &amp; Bug Bounty
+      </text>
+      <text x="488" y="491" font-family="'SF Mono',monospace" font-size="12" fill="#94A3B8">
+        <tspan fill="#7C3AED">●</tspan>  Cloud Security &amp; DevSecOps Pipeline
+      </text>
+      <text x="488" y="510" font-family="'SF Mono',monospace" font-size="12" fill="#94A3B8">
+        <tspan fill="#10B981">●</tspan>  Container Security &amp; SIEM Integration
+      </text>
+    </g>
+
+    <!-- Quote footer -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.5s" fill="freeze"/>
+      <line x1="488" y1="532" x2="1140" y2="532" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+      <text x="810" y="555" font-family="'SF Mono',monospace" font-size="11" fill="#475569" text-anchor="middle" font-style="italic">"Securing tomorrow, one line of code at a time."</text>
+      <!-- Glow pulse on quote -->
+      <text x="810" y="575" font-family="'SF Mono',monospace" font-size="10" fill="url(#accentGrad)" text-anchor="middle" filter="url(#glow)">github.com/KADHIRAVANEG</text>
+    </g>
+
+    <!-- Right panel border shimmer -->
+    <rect x="460" y="20" width="700" height="570" fill="none" rx="12" stroke="url(#shimmer)" stroke-width="1"/>
+  </g>
+
+  <!-- Outer border shimmer on full card -->
+  <rect x="1" y="1" width="1178" height="608" fill="none" rx="15.5" stroke="url(#shimmer)" stroke-width="1.5"/>
+
+  <!-- Top glow bar accent -->
+  <rect x="460" y="20" width="700" height="2" fill="url(#accentGrad)" rx="1" filter="url(#glow)"/>
+  <rect x="20" y="20" width="420" height="2" fill="url(#accentGrad)" rx="1" filter="url(#glow)"/>
+</svg>
