@@ -201,8 +201,10 @@ DevSecOps Pipelines    ███████░░░  75%
 
 <div align="center">
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux motto
+> *"The quieter you become, the more you are able to hear."* 
 
-**🔐 JOKER53 · Kadhiravan E.G. 🔐**
+** JOKER53 · Kadhiravan E.G. **
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=🔐+Cybersecurity+Engineer+%26+Ethical+Hacker;🛡️+Penetration+Tester+%26+Bug+Bounty+Hunter;☁️+DevSecOps+%26+Cloud+Security+Architect;🐛+Securing+systems%2C+one+CVE+at+a+time;💻+Breaking+things+ethically+since+day+one)](https://git.io/typing-svg)
 
 </div>
