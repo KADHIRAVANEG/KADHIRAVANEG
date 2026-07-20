@@ -134,29 +134,18 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 ## 📈 Skill Radar
 
-<details>
-<summary><b>Click to expand proficiency breakdown</b></summary>
-<br/>
 
-**Offensive Security**
-```
-Web App Pentesting     ████████▓░  90%
-API Security Testing   ███████░░░  75%
-Binary Exploitation    ██████░░░░  65%
-Network Recon & OSINT  ████████░░  80%
-Social Engineering     ██████▓░░░  70%
 ```
 
-**Defensive Security**
-```
-SIEM & Log Analysis    ████████░░  80%
-Container Hardening    ███████░░░  70%
-Threat Hunting         ██████░░░░  65%
-Cloud Security         ████████░░  80%
-DevSecOps Pipelines    ███████░░░  75%
+𝕆𝕗𝕗𝕖𝕟𝕤𝕚𝕧𝕖 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪                                                          𝔻𝕖𝕗𝕖𝕟𝕤𝕚𝕧𝕖 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪
+                                                      
+Web App Pentesting     ████████▓░  90%                                       SIEM & Log Analysis    ████████░░  80%
+API Security Testing   ███████░░░  75%                                       Container Hardening    ███████░░░  70%
+Binary Exploitation    ██████░░░░  65%                                       Threat Hunting         ██████░░░░  65%         
+Network Recon & OSINT  ████████░░  80%                                       DevSecOps Pipelines    ███████░░░  75%
+Social Engineering     ██████▓░░░  70%               
 ```
 
-</details>
 
 
 ## 🏹 Bug Bounty & CTF
