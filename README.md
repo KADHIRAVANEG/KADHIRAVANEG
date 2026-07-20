@@ -77,45 +77,56 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 </table>
 
 
-## ⚙️ Stack
 
-<div align="center">
+<div align="center" >
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
-<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+## Stack
 
-**Offensive Toolkit**
-<br/>
-<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94" />
-<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=FF6633" />
-<img src="https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=2596CD" />
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7" />
+### ◈ Languages
 
-**Defensive & Monitoring**
-<br/>
-<img src="https://img.shields.io/badge/Wazuh-00A1E0?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Falco-00ADEF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Trivy-0d1117?style=flat-square&logo=aqua&logoColor=1904DA" />
-<img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=E6522C" />
-<img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=F46817" />
 
-**Cloud & Infra**
-<br/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5" />
-<img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC" />
-<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D" />
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0d1117)
+
+### ◈ Security & Offensive Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=0d1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=0d1117)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD&labelColor=0d1117)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=0070CC&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=0d1117)
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logoColor=00A1E0&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwQTFFMCIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==)
+![Falco](https://img.shields.io/badge/Falco-0d1117?style=for-the-badge&logoColor=00ADEF&labelColor=0d1117)
+![Trivy](https://img.shields.io/badge/Trivy-0d1117?style=for-the-badge&logo=aqua&logoColor=1904DA&labelColor=0d1117)
+
+### ◈ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1117)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=7B42BC&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=0d1117)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7&labelColor=0d1117)
+
+### ◈ Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=0d1117)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46817&labelColor=0d1117)
+![Loki](https://img.shields.io/badge/Loki-0d1117?style=for-the-badge&logo=grafana&logoColor=F46817&labelColor=0d1117)
+![cAdvisor](https://img.shields.io/badge/cAdvisor-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117)
+
+### ◈ Databases & Backend
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0d1117)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0d1117)
+![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A&labelColor=0d1117)
 
 </div>
 
