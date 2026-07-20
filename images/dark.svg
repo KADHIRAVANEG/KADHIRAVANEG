@@ -83,7 +83,7 @@
     <g clip-path="url(#hexClip)" transform="translate(0,80)">
       <rect x="80" y="150" width="140" height="160" fill="#11151c"/>
       <!-- placeholder monogram - swap this <g> for your <image> tag -->
-      <text x="150" y="245" font-family="Arial,sans-serif" font-size="46" font-weight="900" fill="url(#nameGrad)" text-anchor="middle">KE</text>
+      <text x="150" y="245" font-family="Arial,sans-serif" font-size="46" font-weight="900" fill="url(#nameGrad)" text-anchor="middle">EG</text>
     </g>
   </g>
 
