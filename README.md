@@ -17,7 +17,7 @@
 
 <br/>
 
-## 📇 Identity Card
+##  Identity Card
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ status:      🟢 open_to_opportunities
 
 
 
-## 🧩 What I Do
+##  What I Do
 
 <table width="100%">
 <tr>
@@ -77,10 +77,9 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 </table>
 
 
+## Stack
 
 <div align="center" >
-
-## Stack
 
 ### ◈ Languages
 
@@ -132,7 +131,7 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 
 
-## 📈 Skill Radar
+##  Skill Radar
 
 
 ```
@@ -148,7 +147,7 @@ Social Engineering     ██████▓░░░  70%
 
 
 
-## 🏹 Bug Bounty & CTF
+##  Bug Bounty & CTF
 
 <div align="center">
 
@@ -161,7 +160,7 @@ Social Engineering     ██████▓░░░  70%
 
 
 
-## 📊 Metrics
+##  Metrics
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=dark&hide_border=true&background=0d1117&ring=f472b6&fire=22d3ee&currStreakLabel=fbbf24&sideLabels=64748b&dates=334155&disable_animations=false" height="150"/>
@@ -173,7 +172,7 @@ Social Engineering     ██████▓░░░  70%
 
 
 
-## 📡 Reach Me
+##  Reach Me
 
 <div align="center">
 
