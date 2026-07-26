@@ -131,59 +131,28 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 
 
-##  Skill Radar
-
-
-```
-
-𝕆𝕗𝕗𝕖𝕟𝕤𝕚𝕧𝕖 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪                                                          𝔻𝕖𝕗𝕖𝕟𝕤𝕚𝕧𝕖 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪
-                                                      
-Web App Pentesting     ████████▓░  90%                                       SIEM & Log Analysis    ████████░░  80%
-API Security Testing   ███████░░░  75%                                       Container Hardening    ███████░░░  70%
-Binary Exploitation    ██████░░░░  65%                                       Threat Hunting         ██████░░░░  65%         
-Network Recon & OSINT  ████████░░  80%                                       DevSecOps Pipelines    ███████░░░  75%
-Social Engineering     ██████▓░░░  70%               
-```
-
-
-
-##  Bug Bounty & CTF
-
-<div align="center">
-
-<a href="https://tryhackme.com/r/p/JOKER53"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=212C42" /></a>
-<a href="https://hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00" /></a>
-<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&labelColor=0d1117" /></a>
-<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-0d1117?style=flat-square&logo=bugcrowd&logoColor=F26922" /></a>
-
-</div>
-
-
-
 ##  Metrics
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=dark&hide_border=true&background=0d1117&ring=f472b6&fire=22d3ee&currStreakLabel=fbbf24&sideLabels=64748b&dates=334155&disable_animations=false" height="150"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KADHIRAVANEG&theme=react-dark&bg_color=0d1117&color=22d3ee&line=f472b6&point=fbbf24&hide_border=true&area=true&area_color=22d3ee" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=radical&hide_border=true&background=020c1b&ring=64ffda&fire=00b4d8&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=ccd6f6&currStreakNum=64ffda" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KADHIRAVANEG&bg_color=020c1b&color=64ffda&line=00b4d8&point=64ffda&area=true&area_color=0d3349&hide_border=true&custom_title=Contribution+Graph+🛡️" width="700"/>
+</p>
 
 
 
 ##  Reach Me
-
-<div align="center">
-
-<a href="http://joker53.me"><img src="https://img.shields.io/badge/joker53.me-0d1117?style=flat-square&logo=googlechrome&logoColor=22d3ee" /></a>
-<a href="https://github.com/KADHIRAVANEG"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/kadhiravan-e-g-028818327"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
-<a href="mailto:kadhiravanegk@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=D14836" /></a>
-<a href="https://instagram.com/__kadhiravan__"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://tryhackme.com/r/p/JOKER53"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=212C42" /></a>
-
-</div>
+<p align="center">
+  <a href="mailto:kadhiravanegk@gmail.com"><img src="https://img.shields.io/badge/Email-64ffda?style=for-the-badge&logo=gmail&logoColor=020c1b"/></a>
+  <a href="https://github.com/KADHIRAVANEG"><img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda"/></a>
+  <a href="https://linkedin.com/in/kadhiravan-e-g-028818327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/__kadhiravan__"><img src="https://img.shields.io/badge/Instagram-00b4d8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tryhackme.com/r/p/JOKER53"><img src="https://img.shields.io/badge/TryHackMe-1c1c2e?style=for-the-badge&logo=tryhackme&logoColor=64ffda"/></a>
+  <a href="http://joker53.me/"><img src="https://img.shields.io/badge/joker53.me-64ffda?style=for-the-badge&logo=googlechrome&logoColor=020c1b"/></a>
+</p>
 
 
 
