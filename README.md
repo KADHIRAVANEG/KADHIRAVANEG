@@ -17,8 +17,6 @@
 
 <br/>
 
-##  Identity Card
-
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -122,19 +120,16 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 ##  Metrics
 
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=radical&hide_border=true&background=020c1b&ring=64ffda&fire=00b4d8&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=ccd6f6&currStreakNum=64ffda" width="500"/>
-</p>
-
-<img src="https://streak-stats.demolab.com?user=KADHIRAVANEG&theme=dark&hide_border=true&background=020c1b&ring=64ffda&fire=00b4d8&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=ccd6f6&currStreakNum=64ffda" alt="GitHub Streak" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KADHIRAVANEG&theme=dark&background=020c1b&ring=64ffda&fire=00b4d8&currStreakLabel=64ffda" alt="GitHub Streak" width="450"/>
 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KADHIRAVANEG&bg_color=020c1b&color=64ffda&line=00b4d8&point=64ffda&area=true&area_color=0d3349&hide_border=true&custom_title=Contribution+Graph+🛡️" width="700"/>
 </p>
 
-
+</div>
 
 ### My Contributions
 
