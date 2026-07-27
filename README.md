@@ -1,7 +1,6 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/dark.svg#gh-dark-mode-only" width="100%" alt="Kadhiravan Banner Dark"/>
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/images/light.svg#gh-light-mode-only" width="100%" alt="Kadhiravan Banner Light"/>
-</div>
+
+
+![banner](https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/banner.svg)
 
 <div align="center">
 
@@ -24,17 +23,7 @@
 <tr>
 <td width="60%" valign="top">
 
-```yaml
-name:        Kadhiravan E.G.
-alias:       JOKER53
-role:        Cybersecurity Engineer & Ethical Hacker
-education:   B.E. Cyber Security (Ongoing)
-location:    Tamil Nadu, India
-website:     joker53.me
-email:       kadhiravanegk@gmail.com
-mission:     "Turn every vulnerability into a lesson"
-status:      🟢 open_to_opportunities
-```
+![Profile Card](https://github.com/KADHIRAVANEG/KADHIRAVANEG/raw/main/kadhiravan-card.svg)
 
 </td>
 <td width="40%" valign="top">
@@ -131,10 +120,6 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 </div>
 
 
-
-
-![banner](https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/banner.svg)
-
 ##  Metrics
 
 
@@ -148,6 +133,10 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 
 
+### My Contributions
+
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-cyan.svg" alt="Snake" width="100%"/>
+
 ##  Reach Me
 <p align="center">
   <a href="mailto:kadhiravanegk@gmail.com"><img src="https://img.shields.io/badge/Email-64ffda?style=for-the-badge&logo=gmail&logoColor=020c1b"/></a>
@@ -158,10 +147,9 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
   <a href="http://joker53.me/"><img src="https://img.shields.io/badge/joker53.me-64ffda?style=for-the-badge&logo=googlechrome&logoColor=020c1b"/></a>
 </p>
 
-### 🐍 Snake eating my contributions
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-cyan.svg" alt="Snake" width="100%"/>
-
+  
 > *"The quieter you become, the more you are able to hear."* 
 
 **JOKER53 · Kadhiravan E.G.**
