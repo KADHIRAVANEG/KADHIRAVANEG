@@ -158,9 +158,9 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
   <a href="http://joker53.me/"><img src="https://img.shields.io/badge/joker53.me-64ffda?style=for-the-badge&logo=googlechrome&logoColor=020c1b"/></a>
 </p>
 
+### 🐍 Snake eating my contributions
 
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-cyan.svg" alt="Snake" width="100%"/>
 
 > *"The quieter you become, the more you are able to hear."* 
 
