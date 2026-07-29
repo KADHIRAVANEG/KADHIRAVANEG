@@ -26,12 +26,27 @@
 </td>
 <td width="40%" valign="top">
 
-**Currently**
-- 🔭 Building offensive-security tooling
-- 🛡️ Practicing detection engineering
-- 🌱 Preparing for OSCP
-- 🐛 Hunting on HackerOne / Bugcrowd
-- 💬 Ask me about pentesting, K8s hardening, or DevSecOps
+**Currently :**
+
+Building offensive-security tooling
+Practicing detection engineering
+Preparing for OSCP
+Bug hunting on HackerOne / Bugcrowd
+Working on pentesting, K8s hardening & DevSecOps
+
+------
+
+**Active projects :**
+
+**FLAMES** – gamified firewall/network security training platform
+
+**cloudcompliance** – SOC2-ready AWS IaC baseline
+
+**secure-kube** – CIS-aligned zero-trust Kubernetes via IaC
+
+**Helmify** – CLI that generates production Helm charts
+
+**nodewipe** – removes unwanted Node packages
 
 </td>
 </tr>
@@ -123,6 +138,9 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KADHIRAVANEG&theme=dark&background=020c1b&ring=64ffda&fire=00b4d8&currStreakLabel=64ffda" alt="GitHub Streak" width="450"/>
+
+<br></br>
+
 
 
 <p align="center">
