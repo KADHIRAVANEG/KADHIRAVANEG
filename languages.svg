@@ -29,7 +29,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   </g>
   <g class="row" style="animation-delay:1.25s">
     <circle cx="26" cy="133" r="5" fill="#f34b7d"/>
-    <text x="40" y="138" font-size="13" fill="#e6edf3" font-weight="bold">C++</text>
+    <text x="40" y="138" font-size="13" fill="#e6edf3" font-weight="bold">Rust</text>
     <text x="396" y="138" text-anchor="end" font-size="13" fill="#f34b7d" font-weight="bold">28.0%</text>
     <rect x="40" y="146" width="268" height="9" rx="4.5" fill="#0e2418"/>
     <rect class="bar" x="40" y="146" width="75.0" height="9" rx="4.5" fill="#f34b7d" style="animation-delay:1.40s">
