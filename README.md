@@ -5,7 +5,7 @@
 <div align="center">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=root%40joker53%3A~%23+nmap+-sV+-p-+target;%5B%2B%5D+Scanning+for+open+opportunities...;%5B%2B%5D+Vulnerability+found%3A+underestimated+potential;%5B%2B%5D+Exploiting...+skills+deployed+successfully;%5B%2B%5D+Access+granted%3A+welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=root%40joker53%3A~%23+nmap+-sV+-p-+target;%5B%2B%5D+Scanning+for+open+opportunities...;%5B%2B%5D+Vulnerability+found%3A+underestimated+potential;%5B%2B%5D+Exploiting...+skills+deployed+successfully;%5B%2B%5D+Access+granted%3A+welcome+to+my+profile" alt="Typing SVG...." /></a>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ![Profile Card](https://github.com/KADHIRAVANEG/KADHIRAVANEG/raw/main/lanyard.svg)
 
@@ -60,19 +60,19 @@ Working on pentesting, K8s hardening & DevSecOps
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🗡️ Offense
+###  Offense
 Web & API pentesting, recon, exploit chaining, CTFs, bug bounty hunting.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🛡️ Defense
+###  Defense
 SIEM tuning, log correlation, threat hunting, container & K8s hardening.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### ☁️ Platform
+###  Platform
 DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 </td>
