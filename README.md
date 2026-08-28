@@ -154,12 +154,6 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 <br></br>
 
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KADHIRAVANEG&bg_color=020c1b&color=64ffda&line=00b4d8&point=64ffda&area=true&area_color=0d3349&hide_border=true&custom_title=Contribution+Graph+🛡️" width="700"/>
-</p>
-
 </div>
 
 ### My Contributions
