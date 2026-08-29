@@ -18,30 +18,14 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ![Profile Card](https://github.com/KADHIRAVANEG/KADHIRAVANEG/raw/main/lanyard.svg)
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-**CURRENTLY**
-
-`>` Building offensive-security tooling
-`>` Practicing detection engineering
-`>` Preparing for OSCP
-`>` Bug hunting on HackerOne / Bugcrowd
-`>` Pentesting, K8s hardening & DevSecOps
-
----
-
-**ACTIVE PROJECTS**
-
-`FLAMES` — gamified firewall/network security training platform
-`cloudcompliance` — SOC2-ready AWS IaC baseline
-`secure-kube` — CIS-aligned zero-trust Kubernetes via IaC
-`Helmify` — CLI that generates production Helm charts
-`nodewipe` — removes unwanted Node packages
+![Currently & Projects](https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/whoami-panel.svg)
 
 </td>
 </tr>
@@ -49,31 +33,11 @@
 
 ## [ WHAT I DO ]
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
+<div align="center">
 
-**// OFFENSE**
+![What I Do](https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/what-i-do.svg)
 
-Web & API pentesting, recon, exploit chaining, CTFs, bug bounty hunting.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**// DEFENSE**
-
-SIEM tuning, log correlation, threat hunting, container & K8s hardening.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**// PLATFORM**
-
-DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
-
-</td>
-</tr>
-</table>
+</div>
 
 ## [ STACK ]
 
