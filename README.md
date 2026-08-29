@@ -2,19 +2,17 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=0A0A0A&background=FFDE5900&center=true&vCenter=true&width=700&lines=root%40joker53%3A~%23+nmap+-sV+-p-+target;%5B%2B%5D+Scanning+for+open+opportunities...;%5B%2B%5D+Vulnerability+found%3A+underestimated+potential;%5B%2B%5D+Exploiting...+skills+deployed+successfully;%5B%2B%5D+Access+granted%3A+welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=4FD1C5&center=true&vCenter=true&width=700&lines=root%40joker53%3A~%23+nmap+-sV+-p-+target;%5B%2B%5D+Scanning+for+open+opportunities...;%5B%2B%5D+Vulnerability+found%3A+underestimated+potential;%5B%2B%5D+Exploiting...+skills+deployed+successfully;%5B%2B%5D+Access+granted%3A+welcome+to+my+profile" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4FD1C5?style=flat-square&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/BASED%20IN-TAMIL%20NADU%2C%20INDIA-FF5A36?style=flat-square&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/ALIAS-JOKER53-FFDE59?style=flat-square&labelColor=0A0A0A" />
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/status-row.svg" alt="status" />
 
 </div>
 
 <br/>
 
-## [ WHOAMI ]
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/whoami-header.svg" alt="[ WHOAMI ]" />
 
 <table>
 <tr>
@@ -31,7 +29,7 @@
 </tr>
 </table>
 
-## [ WHAT I DO ]
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/what-i-do-header.svg" alt="[ WHAT I DO ]" />
 
 <div align="center">
 
@@ -39,55 +37,55 @@
 
 </div>
 
-## [ STACK ]
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/stack-header.svg" alt="[ STACK ]" />
 
 <div align="center">
 
 **LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=FFDE59&labelColor=0A0A0A)
-![C](https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=4FD1C5&labelColor=0A0A0A)
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=4FD1C5&labelColor=0A0A0A)
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=FF5A36&labelColor=0A0A0A)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=FFDE59&labelColor=0A0A0A)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=4FD1C5&labelColor=0A0A0A)
-![Bash](https://img.shields.io/badge/Bash-0A0A0A?style=flat-square&logo=gnubash&logoColor=F2EEE3&labelColor=0A0A0A)
+![Python](https://img.shields.io/badge/Python-F2EEE3?style=flat-square&logo=python&logoColor=0A0A0A&labelColor=F2EEE3)
+![C](https://img.shields.io/badge/C-F2EEE3?style=flat-square&logo=c&logoColor=0A0A0A&labelColor=F2EEE3)
+![C++](https://img.shields.io/badge/C++-F2EEE3?style=flat-square&logo=cplusplus&logoColor=0A0A0A&labelColor=F2EEE3)
+![Java](https://img.shields.io/badge/Java-F2EEE3?style=flat-square&logo=openjdk&logoColor=0A0A0A&labelColor=F2EEE3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2EEE3?style=flat-square&logo=javascript&logoColor=0A0A0A&labelColor=F2EEE3)
+![TypeScript](https://img.shields.io/badge/TypeScript-F2EEE3?style=flat-square&logo=typescript&logoColor=0A0A0A&labelColor=F2EEE3)
+![Bash](https://img.shields.io/badge/Bash-F2EEE3?style=flat-square&logo=gnubash&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **SECURITY & OFFENSIVE TOOLS**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0A0A?style=flat-square&logo=kalilinux&logoColor=4FD1C5&labelColor=0A0A0A)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0A0A0A?style=flat-square&logo=burpsuite&logoColor=FF5A36&labelColor=0A0A0A)
-![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0A?style=flat-square&logo=metasploit&logoColor=4FD1C5&labelColor=0A0A0A)
-![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=flat-square&logo=nmap&logoColor=4FD1C5&labelColor=0A0A0A)
-![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0A?style=flat-square&logo=wireshark&logoColor=4FD1C5&labelColor=0A0A0A)
-![Trivy](https://img.shields.io/badge/Trivy-0A0A0A?style=flat-square&logo=aqua&logoColor=FFDE59&labelColor=0A0A0A)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-F2EEE3?style=flat-square&logo=kalilinux&logoColor=0A0A0A&labelColor=F2EEE3)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F2EEE3?style=flat-square&logo=burpsuite&logoColor=0A0A0A&labelColor=F2EEE3)
+![Metasploit](https://img.shields.io/badge/Metasploit-F2EEE3?style=flat-square&logo=metasploit&logoColor=0A0A0A&labelColor=F2EEE3)
+![Nmap](https://img.shields.io/badge/Nmap-F2EEE3?style=flat-square&logo=nmap&logoColor=0A0A0A&labelColor=F2EEE3)
+![Wireshark](https://img.shields.io/badge/Wireshark-F2EEE3?style=flat-square&logo=wireshark&logoColor=0A0A0A&labelColor=F2EEE3)
+![Trivy](https://img.shields.io/badge/Trivy-F2EEE3?style=flat-square&logo=aqua&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **CLOUD & DEVOPS**
 
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=4FD1C5&labelColor=0A0A0A)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=flat-square&logo=kubernetes&logoColor=4FD1C5&labelColor=0A0A0A)
-![Terraform](https://img.shields.io/badge/Terraform-0A0A0A?style=flat-square&logo=terraform&logoColor=FF5A36&labelColor=0A0A0A)
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=FFDE59&labelColor=0A0A0A)
-![GCP](https://img.shields.io/badge/GCP-0A0A0A?style=flat-square&logo=googlecloud&logoColor=4FD1C5&labelColor=0A0A0A)
-![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=F2EEE3&labelColor=0A0A0A)
-![Render](https://img.shields.io/badge/Render-0A0A0A?style=flat-square&logo=render&logoColor=4FD1C5&labelColor=0A0A0A)
+![Docker](https://img.shields.io/badge/Docker-F2EEE3?style=flat-square&logo=docker&logoColor=0A0A0A&labelColor=F2EEE3)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-F2EEE3?style=flat-square&logo=kubernetes&logoColor=0A0A0A&labelColor=F2EEE3)
+![Terraform](https://img.shields.io/badge/Terraform-F2EEE3?style=flat-square&logo=terraform&logoColor=0A0A0A&labelColor=F2EEE3)
+![AWS](https://img.shields.io/badge/AWS-F2EEE3?style=flat-square&logo=amazonaws&logoColor=0A0A0A&labelColor=F2EEE3)
+![GCP](https://img.shields.io/badge/GCP-F2EEE3?style=flat-square&logo=googlecloud&logoColor=0A0A0A&labelColor=F2EEE3)
+![Vercel](https://img.shields.io/badge/Vercel-F2EEE3?style=flat-square&logo=vercel&logoColor=0A0A0A&labelColor=F2EEE3)
+![Render](https://img.shields.io/badge/Render-F2EEE3?style=flat-square&logo=render&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **MONITORING & OBSERVABILITY**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-0A0A0A?style=flat-square&logo=prometheus&logoColor=FF5A36&labelColor=0A0A0A)
-![Grafana](https://img.shields.io/badge/Grafana-0A0A0A?style=flat-square&logo=grafana&logoColor=FF5A36&labelColor=0A0A0A)
-![Loki](https://img.shields.io/badge/Loki-0A0A0A?style=flat-square&logo=grafana&logoColor=FF5A36&labelColor=0A0A0A)
-![cAdvisor](https://img.shields.io/badge/cAdvisor-0A0A0A?style=flat-square&logo=docker&logoColor=4FD1C5&labelColor=0A0A0A)
+![Prometheus](https://img.shields.io/badge/Prometheus-F2EEE3?style=flat-square&logo=prometheus&logoColor=0A0A0A&labelColor=F2EEE3)
+![Grafana](https://img.shields.io/badge/Grafana-F2EEE3?style=flat-square&logo=grafana&logoColor=0A0A0A&labelColor=F2EEE3)
+![Loki](https://img.shields.io/badge/Loki-F2EEE3?style=flat-square&logo=grafana&logoColor=0A0A0A&labelColor=F2EEE3)
+![cAdvisor](https://img.shields.io/badge/cAdvisor-F2EEE3?style=flat-square&logo=docker&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **DATABASES & BACKEND**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=4FD1C5&labelColor=0A0A0A)
-![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=FF5A36&labelColor=0A0A0A)
-![Celery](https://img.shields.io/badge/Celery-0A0A0A?style=flat-square&logo=celery&logoColor=4FD1C5&labelColor=0A0A0A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2EEE3?style=flat-square&logo=postgresql&logoColor=0A0A0A&labelColor=F2EEE3)
+![Redis](https://img.shields.io/badge/Redis-F2EEE3?style=flat-square&logo=redis&logoColor=0A0A0A&labelColor=F2EEE3)
+![Celery](https://img.shields.io/badge/Celery-F2EEE3?style=flat-square&logo=celery&logoColor=0A0A0A&labelColor=F2EEE3)
 
 </div>
 
-## [ METRICS ]
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/metrics-header.svg" alt="[ METRICS ]" />
 
 <div align="center">
 
@@ -108,25 +106,21 @@
 
 </div>
 
-## [ CONTRIBUTIONS ]
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/contributions-header.svg" alt="[ CONTRIBUTIONS ]" />
 
-<table align="center" width="100%">
-<tr><td align="center" style="border:4px solid #0A0A0A;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-brutalist.svg" alt="Snake" width="100%"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-brutalist.svg" alt="Snake" width="100%"/>
-
-</td></tr>
-</table>
-
-## [ REACH ME ]
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme-header.svg" alt="[ REACH ME ]" />
 
 <p align="center">
-  <a href="mailto:kadhiravanegk@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4FD1C5?style=flat-square&logo=gmail&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
-  <a href="https://github.com/KADHIRAVANEG"><img src="https://img.shields.io/badge/GITHUB-FFDE59?style=flat-square&logo=github&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
-  <a href="https://linkedin.com/in/kadhiravan-e-g-028818327"><img src="https://img.shields.io/badge/LINKEDIN-FF5A36?style=flat-square&logo=linkedin&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
-  <a href="https://www.instagram.com/__kadhiravan__"><img src="https://img.shields.io/badge/INSTAGRAM-4FD1C5?style=flat-square&logo=instagram&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
-  <a href="https://tryhackme.com/r/p/JOKER53"><img src="https://img.shields.io/badge/TRYHACKME-FFDE59?style=flat-square&logo=tryhackme&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
-  <a href="http://joker53.me/"><img src="https://img.shields.io/badge/JOKER53.ME-FF5A36?style=flat-square&logo=googlechrome&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
+  <a href="mailto:kadhiravanegk@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4FD1C5?style=flat-square&logo=gmail&logoColor=0A0A0A"/></a>
+  <a href="https://github.com/KADHIRAVANEG"><img src="https://img.shields.io/badge/GITHUB-FFDE59?style=flat-square&logo=github&logoColor=0A0A0A"/></a>
+  <a href="https://linkedin.com/in/kadhiravan-e-g-028818327"><img src="https://img.shields.io/badge/LINKEDIN-FF5A36?style=flat-square&logo=linkedin&logoColor=0A0A0A"/></a>
+  <a href="https://www.instagram.com/__kadhiravan__"><img src="https://img.shields.io/badge/INSTAGRAM-4FD1C5?style=flat-square&logo=instagram&logoColor=0A0A0A"/></a>
+  <a href="https://tryhackme.com/r/p/JOKER53"><img src="https://img.shields.io/badge/TRYHACKME-FFDE59?style=flat-square&logo=tryhackme&logoColor=0A0A0A"/></a>
+  <a href="http://joker53.me/"><img src="https://img.shields.io/badge/JOKER53.ME-FF5A36?style=flat-square&logo=googlechrome&logoColor=0A0A0A"/></a>
 </p>
 
 <div align="center">
@@ -135,6 +129,6 @@
 
 **JOKER53 · KADHIRAVAN E.G.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=0A0A0A&background=FFDE5900&center=true&vCenter=true&width=650&lines=%F0%9F%94%90+Cybersecurity+Engineer+%26+Ethical+Hacker;%F0%9F%9B%A1%EF%B8%8F+Penetration+Tester+%26+Bug+Bounty+Hunter;%E2%98%81%EF%B8%8F+DevSecOps+%26+Cloud+Security+Architect;%F0%9F%90%9B+Securing+systems%2C+one+CVE+at+a+time;%F0%9F%92%BB+Breaking+things+ethically+since+day+one)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=4FD1C5&center=true&vCenter=true&width=650&lines=%F0%9F%94%90+Cybersecurity+Engineer+%26+Ethical+Hacker;%F0%9F%9B%A1%EF%B8%8F+Penetration+Tester+%26+Bug+Bounty+Hunter;%E2%98%81%EF%B8%8F+DevSecOps+%26+Cloud+Security+Architect;%F0%9F%90%9B+Securing+systems%2C+one+CVE+at+a+time;%F0%9F%92%BB+Breaking+things+ethically+since+day+one)](https://git.io/typing-svg)
 
 </div>
