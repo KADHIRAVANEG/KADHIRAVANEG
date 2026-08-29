@@ -114,13 +114,14 @@
 
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme-header.svg" alt="[ REACH ME ]" />
 
+
 <p align="center">
-  <a href="mailto:kadhiravanegk@gmail.com"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme/email.svg"/></a>
-  <a href="https://github.com/KADHIRAVANEG"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme/github.svg"/></a>
-  <a href="https://linkedin.com/in/kadhiravan-e-g-028818327"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme/linkedin.svg"/></a>
-  <a href="https://www.instagram.com/__kadhiravan__"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme/instagram.svg"/></a>
-  <a href="https://tryhackme.com/r/p/JOKER53"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme/tryhackme.svg"/></a>
-  <a href="http://joker53.me/"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme/site.svg"/></a>
+  <a href="mailto:kadhiravanegk@gmail.com"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/email.svg"/></a>
+  <a href="https://github.com/KADHIRAVANEG"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/github.svg"/></a>
+  <a href="https://linkedin.com/in/kadhiravan-e-g-028818327"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/linkedin.svg"/></a>
+  <a href="https://www.instagram.com/__kadhiravan__"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/instagram.svg"/></a>
+  <a href="https://tryhackme.com/r/p/JOKER53"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/tryhackme.svg"/></a>
+  <a href="http://joker53.me/"><img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/site.svg"/></a>
 </p>
 
 <div align="center">
