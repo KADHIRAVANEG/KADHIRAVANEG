@@ -43,45 +43,45 @@
 
 **LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-F2EEE3?style=flat-square&logo=python&logoColor=0A0A0A&labelColor=F2EEE3)
-![C](https://img.shields.io/badge/C-F2EEE3?style=flat-square&logo=c&logoColor=0A0A0A&labelColor=F2EEE3)
-![C++](https://img.shields.io/badge/C++-F2EEE3?style=flat-square&logo=cplusplus&logoColor=0A0A0A&labelColor=F2EEE3)
-![Java](https://img.shields.io/badge/Java-F2EEE3?style=flat-square&logo=openjdk&logoColor=0A0A0A&labelColor=F2EEE3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F2EEE3?style=flat-square&logo=javascript&logoColor=0A0A0A&labelColor=F2EEE3)
-![TypeScript](https://img.shields.io/badge/TypeScript-F2EEE3?style=flat-square&logo=typescript&logoColor=0A0A0A&labelColor=F2EEE3)
-![Bash](https://img.shields.io/badge/Bash-F2EEE3?style=flat-square&logo=gnubash&logoColor=0A0A0A&labelColor=F2EEE3)
+![Python](https://img.shields.io/badge/Python-F2EEE3?style=for-the-badge&logo=python&logoColor=0A0A0A&labelColor=F2EEE3)
+![C](https://img.shields.io/badge/C-F2EEE3?style=for-the-badge&logo=c&logoColor=0A0A0A&labelColor=F2EEE3)
+![C++](https://img.shields.io/badge/C++-F2EEE3?style=for-the-badge&logo=cplusplus&logoColor=0A0A0A&labelColor=F2EEE3)
+![Java](https://img.shields.io/badge/Java-F2EEE3?style=for-the-badge&logo=openjdk&logoColor=0A0A0A&labelColor=F2EEE3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2EEE3?style=for-the-badge&logo=javascript&logoColor=0A0A0A&labelColor=F2EEE3)
+![TypeScript](https://img.shields.io/badge/TypeScript-F2EEE3?style=for-the-badge&logo=typescript&logoColor=0A0A0A&labelColor=F2EEE3)
+![Bash](https://img.shields.io/badge/Bash-F2EEE3?style=for-the-badge&logo=gnubash&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **SECURITY & OFFENSIVE TOOLS**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-F2EEE3?style=flat-square&logo=kalilinux&logoColor=0A0A0A&labelColor=F2EEE3)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F2EEE3?style=flat-square&logo=burpsuite&logoColor=0A0A0A&labelColor=F2EEE3)
-![Metasploit](https://img.shields.io/badge/Metasploit-F2EEE3?style=flat-square&logo=metasploit&logoColor=0A0A0A&labelColor=F2EEE3)
-![Nmap](https://img.shields.io/badge/Nmap-F2EEE3?style=flat-square&logo=nmap&logoColor=0A0A0A&labelColor=F2EEE3)
-![Wireshark](https://img.shields.io/badge/Wireshark-F2EEE3?style=flat-square&logo=wireshark&logoColor=0A0A0A&labelColor=F2EEE3)
-![Trivy](https://img.shields.io/badge/Trivy-F2EEE3?style=flat-square&logo=aqua&logoColor=0A0A0A&labelColor=F2EEE3)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-F2EEE3?style=for-the-badge&logo=kalilinux&logoColor=0A0A0A&labelColor=F2EEE3)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F2EEE3?style=for-the-badge&logo=burpsuite&logoColor=0A0A0A&labelColor=F2EEE3)
+![Metasploit](https://img.shields.io/badge/Metasploit-F2EEE3?style=for-the-badge&logo=metasploit&logoColor=0A0A0A&labelColor=F2EEE3)
+![Nmap](https://img.shields.io/badge/Nmap-F2EEE3?style=for-the-badge&logo=nmap&logoColor=0A0A0A&labelColor=F2EEE3)
+![Wireshark](https://img.shields.io/badge/Wireshark-F2EEE3?style=for-the-badge&logo=wireshark&logoColor=0A0A0A&labelColor=F2EEE3)
+![Trivy](https://img.shields.io/badge/Trivy-F2EEE3?style=for-the-badge&logo=aqua&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **CLOUD & DEVOPS**
 
-![Docker](https://img.shields.io/badge/Docker-F2EEE3?style=flat-square&logo=docker&logoColor=0A0A0A&labelColor=F2EEE3)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-F2EEE3?style=flat-square&logo=kubernetes&logoColor=0A0A0A&labelColor=F2EEE3)
-![Terraform](https://img.shields.io/badge/Terraform-F2EEE3?style=flat-square&logo=terraform&logoColor=0A0A0A&labelColor=F2EEE3)
-![AWS](https://img.shields.io/badge/AWS-F2EEE3?style=flat-square&logo=amazonaws&logoColor=0A0A0A&labelColor=F2EEE3)
-![GCP](https://img.shields.io/badge/GCP-F2EEE3?style=flat-square&logo=googlecloud&logoColor=0A0A0A&labelColor=F2EEE3)
-![Vercel](https://img.shields.io/badge/Vercel-F2EEE3?style=flat-square&logo=vercel&logoColor=0A0A0A&labelColor=F2EEE3)
-![Render](https://img.shields.io/badge/Render-F2EEE3?style=flat-square&logo=render&logoColor=0A0A0A&labelColor=F2EEE3)
+![Docker](https://img.shields.io/badge/Docker-F2EEE3?style=for-the-badge&logo=docker&logoColor=0A0A0A&labelColor=F2EEE3)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-F2EEE3?style=for-the-badge&logo=kubernetes&logoColor=0A0A0A&labelColor=F2EEE3)
+![Terraform](https://img.shields.io/badge/Terraform-F2EEE3?style=for-the-badge&logo=terraform&logoColor=0A0A0A&labelColor=F2EEE3)
+![AWS](https://img.shields.io/badge/AWS-F2EEE3?style=for-the-badge&logo=amazonaws&logoColor=0A0A0A&labelColor=F2EEE3)
+![GCP](https://img.shields.io/badge/GCP-F2EEE3?style=for-the-badge&logo=googlecloud&logoColor=0A0A0A&labelColor=F2EEE3)
+![Vercel](https://img.shields.io/badge/Vercel-F2EEE3?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=F2EEE3)
+![Render](https://img.shields.io/badge/Render-F2EEE3?style=for-the-badge&logo=render&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **MONITORING & OBSERVABILITY**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-F2EEE3?style=flat-square&logo=prometheus&logoColor=0A0A0A&labelColor=F2EEE3)
-![Grafana](https://img.shields.io/badge/Grafana-F2EEE3?style=flat-square&logo=grafana&logoColor=0A0A0A&labelColor=F2EEE3)
-![Loki](https://img.shields.io/badge/Loki-F2EEE3?style=flat-square&logo=grafana&logoColor=0A0A0A&labelColor=F2EEE3)
-![cAdvisor](https://img.shields.io/badge/cAdvisor-F2EEE3?style=flat-square&logo=docker&logoColor=0A0A0A&labelColor=F2EEE3)
+![Prometheus](https://img.shields.io/badge/Prometheus-F2EEE3?style=for-the-badge&logo=prometheus&logoColor=0A0A0A&labelColor=F2EEE3)
+![Grafana](https://img.shields.io/badge/Grafana-F2EEE3?style=for-the-badge&logo=grafana&logoColor=0A0A0A&labelColor=F2EEE3)
+![Loki](https://img.shields.io/badge/Loki-F2EEE3?style=for-the-badge&logo=grafana&logoColor=0A0A0A&labelColor=F2EEE3)
+![cAdvisor](https://img.shields.io/badge/cAdvisor-F2EEE3?style=for-the-badge&logo=docker&logoColor=0A0A0A&labelColor=F2EEE3)
 
 **DATABASES & BACKEND**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2EEE3?style=flat-square&logo=postgresql&logoColor=0A0A0A&labelColor=F2EEE3)
-![Redis](https://img.shields.io/badge/Redis-F2EEE3?style=flat-square&logo=redis&logoColor=0A0A0A&labelColor=F2EEE3)
-![Celery](https://img.shields.io/badge/Celery-F2EEE3?style=flat-square&logo=celery&logoColor=0A0A0A&labelColor=F2EEE3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2EEE3?style=for-the-badge&logo=postgresql&logoColor=0A0A0A&labelColor=F2EEE3)
+![Redis](https://img.shields.io/badge/Redis-F2EEE3?style=for-the-badge&logo=redis&logoColor=0A0A0A&labelColor=F2EEE3)
+![Celery](https://img.shields.io/badge/Celery-F2EEE3?style=for-the-badge&logo=celery&logoColor=0A0A0A&labelColor=F2EEE3)
 
 </div>
 
