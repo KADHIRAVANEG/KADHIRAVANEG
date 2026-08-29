@@ -91,8 +91,8 @@ def render_stats_svg(user, total_stars, repo_count, rank):
   <rect x="0" y="0" width="480" height="280" fill="{PALETTE['cream']}"/>
   <rect x="18" y="18" width="440" height="244" fill="{PALETTE['black']}"/>
   <rect x="10" y="10" width="440" height="244" fill="#FFFFFF" stroke="{PALETTE['black']}" stroke-width="4"/>
-  <rect x="10" y="10" width="230" height="38" fill="{PALETTE['teal']}" stroke="{PALETTE['black']}" stroke-width="4"/>
-  <text x="125" y="35" font-size="14" fill="{PALETTE['black']}" text-anchor="middle" letter-spacing="0.5" font-weight="900">{user['login'].upper()}'S GITHUB STATS</text>
+  <rect x="10" y="10" width="290" height="38" fill="{PALETTE['teal']}" stroke="{PALETTE['black']}" stroke-width="4"/>
+  <text x="30" y="35" font-size="12.5" fill="{PALETTE['black']}" letter-spacing="0.3" font-weight="900">{user['login'].upper()}'S GITHUB STATS</text>
   <g font-family="'JetBrains Mono',monospace" font-weight="700" font-size="14">
     <text x="32" y="82" fill="{PALETTE['black']}">TOTAL STARS EARNED</text>
     <text x="270" y="82" fill="{PALETTE['black']}" text-anchor="end" font-weight="900">{total_stars}</text>
