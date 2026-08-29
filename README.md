@@ -156,9 +156,11 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 
 </div>
 
-### My Contributions
+## MY CONTRIBUTIONS
 
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-cyan.svg" alt="Snake" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-brutalist.svg" alt="Snake" width="100%"/>
+</div>
 
 ##  Reach Me
 <p align="center">
