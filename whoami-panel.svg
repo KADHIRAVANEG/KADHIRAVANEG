@@ -1,7 +1,7 @@
-<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif">
-  <rect x="0" y="0" width="480" height="480" fill="#F2EEE3"/>
-  <rect x="18" y="18" width="440" height="444" fill="#0A0A0A"/>
-  <rect x="10" y="10" width="440" height="444" fill="#FFFFFF" stroke="#0A0A0A" stroke-width="4"/>
+<svg width="480" height="580" viewBox="0 0 480 580" xmlns="http://www.w3.org/2000/svg" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="480" height="580" fill="#F2EEE3"/>
+  <rect x="18" y="18" width="440" height="544" fill="#0A0A0A"/>
+  <rect x="10" y="10" width="440" height="544" fill="#FFFFFF" stroke="#0A0A0A" stroke-width="4"/>
 
   <!-- CURRENTLY header -->
   <rect x="10" y="10" width="150" height="36" fill="#4FD1C5" stroke="#0A0A0A" stroke-width="4"/>
@@ -42,4 +42,7 @@
     <text x="46" y="442" font-weight="900">NODEWIPE</text>
     <text x="46" y="458" font-weight="500" fill="#5A5648">Removes unwanted Node packages</text>
   </g>
+
+  <line x1="30" y1="480" x2="450" y2="480" stroke="#0A0A0A" stroke-width="3"/>
+  <text x="30" y="504" font-size="11" fill="#7A7568" font-family="'JetBrains Mono',monospace" font-weight="700" letter-spacing="0.5">+ MORE ON GITHUB/KADHIRAVANEG?TAB=REPOSITORIES</text>
 </svg>
