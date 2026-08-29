@@ -134,10 +134,10 @@ DevSecOps pipelines, IaC with Terraform, cloud security on AWS/GCP.
 <table align="center">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/languages.svg" width="400" height="230" />
+      <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/stats.svg" width="400" height="230" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/stats.svg" width="400" height="230" />
+      <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/languages.svg" width="400" height="230" />
     </td>
   </tr>
 </table>
