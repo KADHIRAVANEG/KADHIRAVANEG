@@ -1,7 +1,6 @@
 ![banner](https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/banner.svg)
 
 
-Hiii
 
 <div align="center">
 
