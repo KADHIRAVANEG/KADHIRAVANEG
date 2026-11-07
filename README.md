@@ -122,7 +122,7 @@
 
 <br/>
 
-> *A living pixel-art koi shaped by my GitHub activity — colored by my languages, grown by my contributions, and swimming to each day's rhythm.*
+> *A living pixel-art koi shaped by my GitHub activity - colored by my languages, grown by my contributions, and swimming to each day's rhythm.*
 
 </div>
 
