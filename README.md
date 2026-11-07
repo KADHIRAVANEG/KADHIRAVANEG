@@ -118,9 +118,7 @@
 
 <div align="center">
 
-<a href="https://github.com/yalongwastaken/git-koi">
-  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/koi/koi.gif" width="256" alt="Kadhiravan's Git Koi" />
-</a>
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/koi/koi.gif" width="256" alt="Kadhiravan's Git Koi" />
 
 <br/>
 
