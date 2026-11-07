@@ -114,7 +114,7 @@
   <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-brutalist.svg" alt="Snake" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/koi-header.svg" alt="[ KOI ]" />
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/koi-title.svg" alt="[ KOI ]" />
 
 <div align="center">
 
