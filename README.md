@@ -114,6 +114,20 @@
   <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-brutalist.svg" alt="Snake" width="100%"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/koi-header.svg" alt="[ GIT KOI ]" />
+
+<div align="center">
+
+<a href="https://github.com/yalongwastaken/git-koi">
+  <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/koi/koi.gif" width="256" alt="Kadhiravan's Git Koi" />
+</a>
+
+<br/>
+
+> *A living pixel-art koi shaped by my GitHub activity — colored by my languages, grown by my contributions, and swimming to each day's rhythm.*
+
+</div>
+
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/reachme-header.svg" alt="[ REACH ME ]" />
 
 
