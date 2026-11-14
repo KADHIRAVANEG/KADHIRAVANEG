@@ -16,6 +16,8 @@
 
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/whoami.svg" alt="[ WHOAMI ]" />
 
+<br></br>
+
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -108,19 +110,31 @@
 
 </div>
 
-
+<br></br>
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/tryhackme.svg?v=2" alt="[ TRYHACKME ]" />
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/JOKER53.png" alt="TryHackMe" />
+<table>
+<tr>
+<td align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/JOKER53.png" alt="TryHackMe Badge" height="150"/>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png" alt="Capability Score" width="500"/>
+</td>
+</tr>
+</table>
 </div>
-
-
+<br></br>
 
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/contributions.svg" alt="[ CONTRIBUTIONS ]" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/output/github-snake-brutalist.svg" alt="Snake" width="100%"/>
 </div>
+
+
+
+<br></br>
 
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/koi.svg" alt="[ KOI ]" />
 
@@ -129,6 +143,8 @@
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/koi/koi.gif" width="256" alt="Kadhiravan's Git Koi" />
 
 <br/>
+
+<br></br>
 
 > *A living pixel-art koi shaped by my GitHub activity - colored by my languages, grown by my contributions, and swimming to each day's rhythm.*
 
