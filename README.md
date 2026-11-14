@@ -109,8 +109,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/tryhackme.svg" alt="[ TRYHACKME ]" />
-
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/tryhackme.svg?v=2" alt="[ TRYHACKME ]" />
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/JOKER53.png" alt="TryHackMe" />
 </div>
