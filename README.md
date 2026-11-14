@@ -108,6 +108,24 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/tryhackme.svg" alt="[ TRYHACKME ]" />
+
+<div align="center">
+<table>
+<tr>
+<td align="left" style="border:3px solid #0A0A0A;background:#F5D000;padding:6px 16px;">
+<b>TRYHACKME</b>
+</td>
+<td align="center" style="border:3px solid #0A0A0A;background:#F2EEE3;padding:12px 32px;">
+<img src="https://tryhackme-badges.s3.amazonaws.com/JOKER53.png" alt="TryHackMe Badge" height="120"/>
+</td>
+<td align="right" style="border:3px solid #0A0A0A;background:#4FD1C5;padding:6px 16px;">
+<b>@JOKER53</b>
+</td>
+</tr>
+</table>
+</div>
+
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/contributions.svg" alt="[ CONTRIBUTIONS ]" />
 
 <div align="center">
