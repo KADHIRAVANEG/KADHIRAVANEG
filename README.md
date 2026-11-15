@@ -116,13 +116,14 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/thm-badge.png" height="150" alt="TryHackMe"/>
+<img src="https://cdn-images.tryhackme.com/public-profile/JOKER53/badge-dark-56d539ce92d1.png" height="150" alt="TryHackMe"/>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png" width="450" alt="Capability Score"/>
 </td>
 </tr>
 </table>
+</div>
 </div>
 <br></br>
 
