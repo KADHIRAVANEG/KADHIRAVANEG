@@ -116,10 +116,10 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/JOKER53.png" alt="TryHackMe Badge" height="150"/>
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/thm-badge.png" height="150" alt="TryHackMe"/>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png" alt="Capability Score" width="500"/>
+<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png" width="450" alt="Capability Score"/>
 </td>
 </tr>
 </table>
