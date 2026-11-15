@@ -1,0 +1,30 @@
+name: Update TryHackMe Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs every day at midnight UTC
+  workflow_dispatch:        # allows manual trigger from Actions tab
+
+jobs:
+  update-thm-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download TryHackMe badge image
+        run: |
+          mkdir -p assets/components
+          curl -L "https://cdn-images.tryhackme.com/public-profile/JOKER53/badge-dark-56d539ce92d1.png" \
+               -o assets/components/thm-badge.png
+
+      - name: Commit and push updated badge
+        run: |
+          git config --global user.name "thm-stats-bot"
+          git config --global user.email "thm-bot@github.com"
+          git add assets/components/thm-badge.png
+          git diff --staged --quiet || git commit -m "chore: update TryHackMe badge [skip ci]"
+          git push
