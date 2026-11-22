@@ -34,14 +34,14 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p assets/components
-          TOKEN_URL="https://tryhackme.com/badge/t/d38e928ac3dbdd2046e0adffb60fc23c15f56cbc40f7207a87a9a6be7e7f4580eee24dbb675e9d588ab211876aa0579b?theme=dark"
+          TOKEN_URL="https://tryhackme.com/badge/t/e252664dca2bd687cc314972d791023420d20f625b5b2413f5dcd7bf82f7be4482725aa08f5089a7abdbaef405b42576?theme=dark"
           IMG_URL=$(curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$TOKEN_URL" | grep -o -E "https://cdn-images\.tryhackme\.com/[^\"]+\.png" | head -n 1)
           if [ -n "$IMG_URL" ]; then
             echo "Fetched dynamic badge URL: $IMG_URL"
             curl -sL "$IMG_URL" -o assets/components/thm-badge.png
           else
             echo "Fallback to direct badge image"
-            curl -sL -f "https://cdn-images.tryhackme.com/public-profile/JOKER53/badge-dark-56d539ce92d1.png" -o assets/components/thm-badge.png || true
+            curl -sL -f "https://cdn-images.tryhackme.com/public-profile/JOKER53/badge-dark-27d6e0fe39f6.png" -o assets/components/thm-badge.png || true
           fi
 
       # 2. Draw Git Koi

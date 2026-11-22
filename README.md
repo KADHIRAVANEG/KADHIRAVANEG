@@ -114,11 +114,11 @@
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/tryhackme.svg?v=2" alt="[ TRYHACKME ]" />
 <p align="center">
   <a href="https://tryhackme.com/r/p/JOKER53" target="_blank">
-    <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/thm-badge.png" height="180" alt="TryHackMe Profile Badge"/>
+    <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/thm-badge.png?v=2" height="180" alt="TryHackMe Profile Badge"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/r/p/JOKER53" target="_blank">
-    <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png" height="180" alt="TryHackMe Capability Score"/>
+    <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png?v=2" height="180" alt="TryHackMe Capability Score"/>
   </a>
 </p>
 <br></br>
