@@ -1,0 +1,101 @@
+name: Update Profile (Stats, Koi & THM)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs daily at midnight UTC
+  workflow_dispatch:        # Manual 1-click trigger from Actions tab
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'koi/**'
+      - 'assets/components/thm-badge.png'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 1. Update TryHackMe Badge
+      - name: Update TryHackMe badge image
+        continue-on-error: true
+        run: |
+          mkdir -p assets/components
+          TOKEN_URL="https://tryhackme.com/badge/t/d38e928ac3dbdd2046e0adffb60fc23c15f56cbc40f7207a87a9a6be7e7f4580eee24dbb675e9d588ab211876aa0579b?theme=dark"
+          IMG_URL=$(curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$TOKEN_URL" | grep -o -E "https://cdn-images\.tryhackme\.com/[^\"]+\.png" | head -n 1)
+          if [ -n "$IMG_URL" ]; then
+            echo "Fetched dynamic badge URL: $IMG_URL"
+            curl -sL "$IMG_URL" -o assets/components/thm-badge.png
+          else
+            echo "Fallback to direct badge image"
+            curl -sL -f "https://cdn-images.tryhackme.com/public-profile/JOKER53/badge-dark-56d539ce92d1.png" -o assets/components/thm-badge.png || true
+          fi
+
+      # 2. Draw Git Koi
+      - name: Draw Git Koi
+        continue-on-error: true
+        uses: yalongwastaken/git-koi@v1
+        with:
+          login: ${{ github.repository_owner }}
+          body: white
+          output-dir: koi
+
+      # 3. Commit Updated THM Badge & Koi to Main
+      - name: Commit and push updates to main
+        shell: bash
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/components/thm-badge.png koi/koi.gif koi/koi.png 2>/dev/null || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update TryHackMe badge and Git Koi [skip ci]"
+            git push
+          else
+            echo "No changes to THM badge or Koi; skipping commit."
+          fi
+
+      # 4. Generate Snake Animation
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-dark
+            dist/github-snake-brutalist.svg?color_snake=%23FF5A36&color_dots=%231A1F26,%23103B44,%231A6E70,%234FD1C5,%23FFDE59
+
+      # 5. Fetch GitHub Data and Render Stats & Languages Cards
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Fetch GitHub stats and render cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python fetch_stats.py
+
+      # 6. Push Generated Files to Output Branch
+      - name: Push all generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

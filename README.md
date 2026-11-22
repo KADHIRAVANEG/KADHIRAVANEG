@@ -112,19 +112,15 @@
 
 <br></br>
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/tryhackme.svg?v=2" alt="[ TRYHACKME ]" />
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn-images.tryhackme.com/public-profile/JOKER53/badge-dark-56d539ce92d1.png" height="150" alt="TryHackMe"/>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png" width="450" alt="Capability Score"/>
-</td>
-</tr>
-</table>
-</div>
-</div>
+<p align="center">
+  <a href="https://tryhackme.com/r/p/JOKER53" target="_blank">
+    <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/thm-badge.png" height="180" alt="TryHackMe Profile Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/r/p/JOKER53" target="_blank">
+    <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/components/capability-score.png" height="180" alt="TryHackMe Capability Score"/>
+  </a>
+</p>
 <br></br>
 
 <img src="https://raw.githubusercontent.com/KADHIRAVANEG/KADHIRAVANEG/main/assets/headers/contributions.svg" alt="[ CONTRIBUTIONS ]" />
